@@ -1,11 +1,13 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace YXWebApi.Controllers
 {
-    public class Class
+    public class Class:ControllerBase
     {
+
     }
 }
